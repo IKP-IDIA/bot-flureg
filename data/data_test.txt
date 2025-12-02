@@ -1,0 +1,34 @@
+{"company_name": "บจก. อยุธยา แคปปิตอล เซอร์วิสเซส",
+ "parent_company": "บมจ. ธนาคารกรุงศรีอยุธยา (BAY)",
+ "name": "นายกอ ทดสอบ",
+ "id_card": "4844241575566",
+ "passport_no": "G02905696"
+}
+
+
+{"company_name": "บมจ. เงินติดล้อ (TIDLOR)",
+ "parent_company": "บมจ. ธนาคารกรุงศรีอยุธยา (BAY)",
+ "name": "นายขอ ทดสอบ",
+ "id_card": "6732042465529",
+ "passport_no": "G20886085"
+}
+
+
+
+
+{"company_name": "บมจ. อิออน ธนสินทรัพย์ (ไทยแลนด์)",
+ "parent_company": "AEON Financial Service (ญี่ปุ่น)",
+ "name": "นายกคอ ทดสอบ",
+ "id_card": "5805114504057",
+ "passport_no": "G46709734"
+}
+
+
+
+
+{"company_name": "บจก. โตโยต้า ลีสซิ่ง (ประเทศไทย)",
+ "parent_company": "Toyota Financial Services Corp.",
+ "name": "นายงอ ทดสอบ",
+ "id_card": "7708047140303",
+ "passport_no": "E79666126"
+}
